@@ -20,9 +20,9 @@ https://filezilla-project.org/
 
 Function:
 
-To connect to esp8266, you must search this Accesspoint 4psp4 than
-apName = 4psp4
-ap_password = 4psp4pwd
+To connect to esp8266, you must search this Accesspoint 4ps4 than
+apName = 4ps4
+ap_password = 4ps4pwd
 
 Web Server Adrress
 http://10.13.37.1
@@ -33,13 +33,13 @@ you can also change the values for apName and ap_password save it and reboot the
 
 FTP server
 address = 10.13.37.1
-user= 4psp4           -----> if you change it from setting the new pass and user changed with the new values
-password = 4psp4pwd   ----->
+user= 4ps4           -----> if you change it from setting the new pass and user changed with the new values
+password = 4ps4pwd   ----->
 FTP support only PASSIVE MODE
 
 USAGE BASIC:
 
-From the ps4 internet settings you must select the AP 4psp4, you don't need to specify any dns or other stuff just click continue, at the end verify your connection, if everything is ok, open the ps4 browser at the address 10.13.37.1 and select your script.
+From the ps4 internet settings you must select the AP 4ps4, you don't need to specify any dns or other stuff just click continue, at the end verify your connection, if everything is ok, open the ps4 browser at the address 10.13.37.1 and select your script.
 
 USAGE ADVANCE:
 
