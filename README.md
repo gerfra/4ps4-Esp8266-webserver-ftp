@@ -9,6 +9,12 @@ All right belong to their respective owners.
 The files needed for the exploits are not included, I have included only empty files, use google to find them and replace them in the data folder. 
 
 
+![DxO-Batch-Image Preview](https://i.imgur.com/hHYFSSA.png)
+
+
+![DxO-Batch-Image Preview](https://i.imgur.com/0i6UnbE.png)
+
+
 ---
 ## Requirements:
 
