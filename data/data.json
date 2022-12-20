@@ -1,0 +1,141 @@
+var data = [{
+"id":0,
+"titolo":"VTXHEN",
+"desc":" Allows for fake signed content to run, adds debug settings.",
+"path":"vtxhen.html",
+"repo":"https://github.com/xvortex",
+"ver":"1.6"
+}, {
+"id":1,
+"titolo":"Blocker EXTREME",
+"desc":" Blocks every possible way of updating.",
+"path":"blockex.html",
+"repo":"https://github.com/LightningMods/Update-Blocker-Extreme-5.05",
+"ver":"none"
+}, {
+"id":2,
+"titolo":"UnBlocker EXTREME",
+"desc":" Undoes Blocker EXTREME.",
+"path":"unblockex.html",
+"repo":"https://github.com/LightningMods/Update-Blocker-Extreme-5.05",
+"ver":"none"
+}, {
+"id":3,
+"titolo":"ReactPSPlus",
+"desc":" Turns the RTC (real time clock) back in system to allow time locked content to open (expired PSN games)",
+"path":"react.html",
+"repo":"https://github.com/Zer0xFF/reactPSPLUS",
+"ver":"2013"
+}, {
+"id":4,
+"titolo":"UnReactPSPlus",
+"desc":" Restore system before ReactPSPlus",
+"path":"unreact.html",
+"repo":"https://github.com/Zer0xFF/reactPSPLUS",
+"ver":"2018"
+}, {
+"id":5,
+"titolo":"Bin Loader",
+"desc":" Allows you to send a payload.bin to your PS4 just like the old days.",
+"path":"binloader.html",
+"repo":"https://github.com/EdiTzZ/ps45.05bin",
+"ver":"5.05"
+}, {
+"id":6,
+"titolo":"apptousb",
+"desc":" Moves games to external hdd, circumventing the internal drive running out of space.",
+"path":"apptousb.html",
+"repo":"https://github.com/stooged/AppToUsb-50X",
+"ver":"none"
+}, {
+"id":7,
+"titolo":"Kdump",
+"desc":" Allows you to dump the kernel to usb",
+"path":"kdump.html",
+"repo":"https://github.com/VV1LD/PS4-KernelDumper",
+"ver":"none"
+}, {
+"id":8,
+"titolo":"VTXDUMPER",
+"desc":" Allows you to dump your legit games (disc/psn) to usb hdd, with or without patches, and merged/unmerged.",
+"path":"vtxdump.html",
+"repo":"https://github.com/xvortex",
+"ver":"1.8"
+}, {
+"id":9,
+"titolo":"DB SG Backup",
+"desc":" Backs up all critical databases, save games, and trophy data to USB.",
+"path":"dbsg.html",
+"repo":"https://github.com/stooged/DB_SG_Backup-50X",
+"ver":"2"
+}, {
+"id":10,
+"titolo":"VTXFTP",
+"desc":" Starts an ftp server on you ps4 so you can connect and copy/paste files to/from your pc/ps4.",
+"path":"vtxftp.html",
+"repo":"https://github.com/xvortex",
+"ver":"1.3"
+}, {
+"id":11,
+"titolo":"FTP RW",
+"desc":" This Payload gives you Unsandboxed FTP Access and re-mount ALL System Partitions as RW (USE CAUTION) Release",
+"path":"ftprw.html",
+"repo":"https://github.com/LightningMods/PS4-System-5.0x-RW-FTP",
+"ver":"none"
+}, {
+"id":12,
+"titolo":"VR ENABLER",
+"desc":" Enables VR if you forgot to enable it before running HEN",
+"path":"vr.html",
+"repo":"https://github.com/stooged/Enable-VR-50X",
+"ver":"none"
+}, {
+"id":13,
+"titolo":"Cheater",
+"desc":" PS4 Cheater is homebrew APP to find game cheat codes",
+"path":"cheater.html",
+"repo":"https://github.com/ChendoChap/PS4_Cheater",
+"ver":"1.4.5"
+}, {
+"id":14,
+"titolo":"Linux Loader",
+"desc":" Lets you boot linus kernel from your USB stick to use your PS4 for Linux.",
+"path":"linux.html",
+"repo":"https://github.com/valentinbreiz/PS4-Linux-Loader/tree/5.05",
+"ver":"none"
+}, {
+"id":15,
+"titolo":"Kexec",
+"desc":" This repo implements a kexec()-style system call for the PS4 Orbis kernel (FreeBSD derivative). This is designed to boot a Linux kernel directly from FreeBSD.",
+"path":"kexec.html",
+"repo":"https://github.com/fail0verflow/ps4-kexec",
+"ver":"none"
+}, {
+"id":16,
+"titolo":"History Blocker",
+"desc":" Enable or disable the auto loading of the last page used in the ps4 webbrowser when you open it.To toggle the enable or disable state just run the payload again and it will turn it on or off.",
+"path":"History_Blocker.html",
+"repo":"https://github.com/stooged/History-Blocker",
+"ver":"1.0"
+}, {
+"id":17,
+"titolo":"Offline",
+"desc":" Enable or disable offline mode.",
+"path":"cache.html",
+"repo":"https://github.com/gerfra/4ps4",
+"ver":"1.0"
+}, {
+"id":18,
+"titolo":"Settings",
+"desc":" Board information and wifi settings.",
+"path":"settings",
+"repo":"https://github.com/gerfra/4ps4",
+"ver":"1.0"
+}, {
+"id":19,
+"titolo":"About",
+"desc":" This project comes from my curiosity to develop on the ESP8266 board,<b style='color:red;'> it's free and has no commercial purpose and does not intend to violate any registered trademark, it does not support any kind of piracy!!!<br>All right belong to their respective owners.</b><br>Visit the developer's official repository for more information.",
+"path":"",
+"repo":"https://github.com/gerfra/4ps4",
+"ver":"1.0"
+ }]
