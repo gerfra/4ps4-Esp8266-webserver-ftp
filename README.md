@@ -68,7 +68,7 @@ PS:Overwrite the files and remember to leave my links and rules inside About lin
 ---
 ## LICENSE
 - <a href="https://support.arduino.cc/hc/en-us/articles/4415094490770-Licensing-for-products-based-on-Arduino">Arduino Lib</a>
-- <a herf="https://github.com/nailbuster/esp8266FTPServer">ESP8266FtpServer.h license</a>
+- <a herf="https://github.com/nailbuster/esp8266FTPServer">ESP8266FtpServer license</a>
 - <a href="https://github.com/gerfra/4ps4-Esp8266-webserver-ftp/blob/master/LICENSE">Repository license</a>
 
 
