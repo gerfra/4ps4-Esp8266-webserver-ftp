@@ -21,6 +21,9 @@ The files needed for the exploits are not included, I have included only empty f
 ESP8266
 An ESP8266 with 4mbflash memory, that because I use the Spiff memory.
 
+- <a href="https://www.arduino.cc/">Arduino Ide</a>
+
+- <a href="https://github.com/nailbuster/esp8266FTPServer">ESP8266FtpServer.h lib</a>
 
 - <a href="https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers">Drivers ESP8266 CP210x_Windows_Drivers</a>
 
@@ -61,6 +64,12 @@ From the ps4 internet settings you must select the AP 4ps4, you don't need to sp
 
 If you know what you are doing then connect with ftp and update the files in the spiff memory, I remind you that you can not exceed the limit of 4mb.
 PS:Overwrite the files and remember to leave my links and rules inside About links. Respect my work.
+
+---
+## LICENSE
+- <a href="https://support.arduino.cc/hc/en-us/articles/4415094490770-Licensing-for-products-based-on-Arduino">Arduino Lib</a>
+- <a href="https://github.com/nailbuster/esp8266FTPServer">ESP8266FtpServer.h license</a>
+- <a href="https://github.com/gerfra/4ps4-Esp8266-webserver-ftp/blob/master/LICENSE">Repository license</a>
 
 
 
