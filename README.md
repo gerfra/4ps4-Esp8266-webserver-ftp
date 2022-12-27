@@ -18,7 +18,6 @@ The files needed for the exploits are not included, I have included only empty f
 ---
 ## Requirements:
 
-ESP8266
 An ESP8266 with 4mbflash memory, that because I use the Spiff memory.
 
 - <a href="https://www.arduino.cc/">Arduino Ide</a>
@@ -27,11 +26,13 @@ An ESP8266 with 4mbflash memory, that because I use the Spiff memory.
 
 - <a href="https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers">Drivers ESP8266 CP210x_Windows_Drivers</a>
 
-
 - <a href="https://github.com/marcelstoer/nodemcu-pyflasher/releases">A flasher tool</a>
 
-
 - <a href="https://filezilla-project.org/">FTP client</a>
+
+  You need to convert the bin payloads to js format.
+  
+- <a href="https://github.com/stooged/bin2html-900">bin2html</a> 
 
 ---
 ## Function:
