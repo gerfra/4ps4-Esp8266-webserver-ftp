@@ -1,4 +1,6 @@
-# 4ps4 Esp8266 webserver + ftp
+# Esp8266 web server + ftp
+
+<b>Use esp8266 as web server, use esp8266 as ftp server</b>
 
 This project comes from my curiosity to develop on the ESP8266 board, it's free and has no commercial purpose and does not intend to violate any registered trademark, it does not support any kind of piracy!!!
 All right belong to their respective owners.
@@ -35,7 +37,80 @@ An ESP8266 with 4mbflash memory, that because I use the Spiff memory.
 - <a href="https://github.com/stooged/bin2html-900">bin2html</a> 
 
 ---
+## Resources:
+
+- VTXHEN
+Allows for fake signed content to run, adds debug settings.
+https://github.com/xvortex
+
+- Blocker EXTREME
+Blocks every possible way of updating.
+https://github.com/LightningMods/Update-Blocker-Extreme-5.05
+
+- UnBlocker EXTREME
+Undoes Blocker EXTREME.
+https://github.com/LightningMods/Update-Blocker-Extreme-5.05
+
+- ReactPSPlus
+Turns the RTC (real time clock) back in system to allow time locked content to open (expired PSN games)
+https://github.com/Zer0xFF/reactPSPLUS
+
+- UnReactPSPlus
+Restore system before ReactPSPlus
+https://github.com/Zer0xFF/reactPSPLUS
+
+- Bin Loader
+Allows you to send a payload.bin to your PS4 just like the old days.
+https://github.com/EdiTzZ/ps45.05bin
+
+- apptousb
+Moves games to external hdd, circumventing the internal drive running out of space.
+https://github.com/stooged/AppToUsb-50X
+
+- Kdump
+Allows you to dump the kernel to usb
+https://github.com/VV1LD/PS4-KernelDumper
+
+- VTXDUMPER
+Allows you to dump your legit games (disc/psn) to usb hdd, with or without patches, and merged/unmerged.
+https://github.com/xvortex
+
+- DB SG Backup
+Backs up all critical databases, save games, and trophy data to USB.
+https://github.com/stooged/DB_SG_Backup-50X
+
+- VTXFTP
+Starts an ftp server on you ps4 so you can connect and copy/paste files to/from your pc/ps4.
+https://github.com/xvortex
+
+- FTP RW
+This Payload gives you Unsandboxed FTP Access and re-mount ALL System Partitions as RW (USE CAUTION) Release
+https://github.com/LightningMods/PS4-System-5.0x-RW-FTP
+
+- VR ENABLER
+Enables VR if you forgot to enable it before running HEN
+https://github.com/stooged/Enable-VR-50X
+
+- Cheater
+PS4 Cheater is homebrew APP to find game cheat codes
+https://github.com/ChendoChap/PS4_Cheater
+
+- Linux Loader
+Lets you boot linus kernel from your USB stick to use your PS4 for Linux.
+https://github.com/valentinbreiz/PS4-Linux-Loader/tree/5.05
+
+- Kexec
+This repo implements a kexec()-style system call for the PS4 Orbis kernel (FreeBSD derivative). This is designed to boot a Linux kernel directly from FreeBSD.
+https://github.com/fail0verflow/ps4-kexec
+
+- History Blocker
+Enable or disable the auto loading of the last page used in the ps4 webbrowser when you open it.To toggle the enable or disable state just run the payload again and it will turn it on or off.
+https://github.com/stooged/History-Blocker
+
+
+---
 ## Function:
+
 
 To connect to esp8266, you must search this Accesspoint 4ps4 than
 - apName = 4ps4
