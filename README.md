@@ -39,71 +39,71 @@ An ESP8266 with 4mbflash memory, that because I use the Spiff memory.
 ---
 ## Resources:
 
-- VTXHEN
+- VTXHEN<br>
 Allows for fake signed content to run, adds debug settings.
 https://github.com/xvortex
 
-- Blocker EXTREME
+- Blocker EXTREME<br>
 Blocks every possible way of updating.
 https://github.com/LightningMods/Update-Blocker-Extreme-5.05
 
-- UnBlocker EXTREME
+- UnBlocker EXTREME<br>
 Undoes Blocker EXTREME.
 https://github.com/LightningMods/Update-Blocker-Extreme-5.05
 
-- ReactPSPlus
+- ReactPSPlus<br>
 Turns the RTC (real time clock) back in system to allow time locked content to open (expired PSN games)
 https://github.com/Zer0xFF/reactPSPLUS
 
-- UnReactPSPlus
+- UnReactPSPlus<br>
 Restore system before ReactPSPlus
 https://github.com/Zer0xFF/reactPSPLUS
 
-- Bin Loader
+- Bin Loader<br>
 Allows you to send a payload.bin to your PS4 just like the old days.
 https://github.com/EdiTzZ/ps45.05bin
 
-- apptousb
+- apptousb<br>
 Moves games to external hdd, circumventing the internal drive running out of space.
 https://github.com/stooged/AppToUsb-50X
 
-- Kdump
+- Kdump<br>
 Allows you to dump the kernel to usb
 https://github.com/VV1LD/PS4-KernelDumper
 
-- VTXDUMPER
+- VTXDUMPER<br>
 Allows you to dump your legit games (disc/psn) to usb hdd, with or without patches, and merged/unmerged.
 https://github.com/xvortex
 
-- DB SG Backup
+- DB SG Backup<br>
 Backs up all critical databases, save games, and trophy data to USB.
 https://github.com/stooged/DB_SG_Backup-50X
 
-- VTXFTP
+- VTXFTP<br>
 Starts an ftp server on you ps4 so you can connect and copy/paste files to/from your pc/ps4.
 https://github.com/xvortex
 
-- FTP RW
+- FTP RW<br>
 This Payload gives you Unsandboxed FTP Access and re-mount ALL System Partitions as RW (USE CAUTION) Release
 https://github.com/LightningMods/PS4-System-5.0x-RW-FTP
 
-- VR ENABLER
+- VR ENABLER<br>
 Enables VR if you forgot to enable it before running HEN
 https://github.com/stooged/Enable-VR-50X
 
-- Cheater
+- Cheater<br>
 PS4 Cheater is homebrew APP to find game cheat codes
 https://github.com/ChendoChap/PS4_Cheater
 
-- Linux Loader
+- Linux Loader<br>
 Lets you boot linus kernel from your USB stick to use your PS4 for Linux.
 https://github.com/valentinbreiz/PS4-Linux-Loader/tree/5.05
 
-- Kexec
+- Kexec<br>
 This repo implements a kexec()-style system call for the PS4 Orbis kernel (FreeBSD derivative). This is designed to boot a Linux kernel directly from FreeBSD.
 https://github.com/fail0verflow/ps4-kexec
 
-- History Blocker
+- History Blocker<br>
 Enable or disable the auto loading of the last page used in the ps4 webbrowser when you open it.To toggle the enable or disable state just run the payload again and it will turn it on or off.
 https://github.com/stooged/History-Blocker
 
